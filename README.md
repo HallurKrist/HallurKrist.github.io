@@ -1,11 +1,11 @@
-# Your Name
+# Hallur Kristinn Hallsson
 **Game Programmer**  
-[Your Website or Portfolio Link] | [Your Email] | [Your LinkedIn] | [Your GitHub]
+hallurkrist@gmail.com | www.linkedin.com/in/hallur-kristinn-362568232 | https://github.com/HallurKrist
 
 ---
 
 ## 🏆 About Me
-I am a passionate game programmer with experience in [your key skills, e.g., C++, Unity, Unreal Engine]. I enjoy creating immersive and interactive experiences, focusing on [gameplay programming, AI, tools, etc.]. This portfolio showcases some of my recent projects.
+Passionate and skilled game developer completing a Master’s degree in Games (Technology Track) at IT University of Copenhagen, graduating in June 2025. Experienced in game programming, development tools, and QA methodologies. Strong problem-solving abilities and a collaborative mindset, with a keen eye for both software quality and player experience. Seeking a role as a game developer or tester to contribute technical expertise and analytical skills to innovative game projects.
 
 ---
 
@@ -36,20 +36,20 @@ _A brief overview of the game, its genre, and what makes it unique._
 ---
 
 ## 🛠 Technical Skills
-- **Languages:** [C++, C#, Python, etc.]
+- **Languages:** [C++, C#, Python, JavaScript, etc.]
 - **Engines & Tools:** [Unity, Unreal Engine, Godot, etc.]
-- **Other:** [Version control (Git), AI, networking, physics programming, etc.]
+- **Other:** [Version control (Git), AI, physics programming, etc.]
 
 ---
 
 ## 📜 Education & Experience
-- **[Your Degree]** - [Your University] - [Year]
-- **QA Intern at SYBO** - [Date] (if you want to include it)
-- Other relevant experiences
+- **Master of Games (Technology Track)** - It University of Copenhagen - 2025
+- **QA Intern at SYBO** - 2024
+- VArious sales and customer facing jobs
 
 ---
 
 ## 📬 Contact
-📧 Email: [Your Email]  
+📧 Email: hallurkrist@gmail.com  
 🔗 Portfolio: [Your Website or Itch.io]  
-🐦 Twitter/X: [Your Handle] (if applicable)  
+📘 LinkedIn: www.linkedin.com/in/hallur-kristinn-362568232 
