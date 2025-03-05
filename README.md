@@ -51,5 +51,5 @@ _A brief overview of the game, its genre, and what makes it unique._
 
 ## 📬 Contact
 📧 Email: hallurkrist@gmail.com  
-🔗 Portfolio: [Your Website or Itch.io]  
+🔗 Portfolio: https://hallurkrist.github.io
 📘 LinkedIn: www.linkedin.com/in/hallur-kristinn-362568232 
